@@ -63,14 +63,14 @@ Main steps:
 ## Run the project
 
 1. Download the dataset from the [UCI source](https://archive.ics.uci.edu/dataset/352/online+retail).
-2. Rename the Excel workbook to **`Online_Retail.xlsx`** and place it in the same working directory as `retail_analysis.ipynb` (or upload it to the Colab session).
+2. Rename the Excel workbook to **`Online_Retail.xlsx`** and place it in the same working directory as `retail_analysis_.ipynb` (or upload it to the Colab session).
 3. Install the Python packages if running locally:
 
    ```bash
    pip install -r requirements.txt
    ```
 
-4. Open `retail_analysis.ipynb` in Jupyter or Google Colab and select **Run All**.
+4. Open `retail_analysis_.ipynb` in Jupyter or Google Colab and select **Run All**.
 5. Charts are shown in the notebook and saved as PNG files when their cells are run.
 
 **Note:** The source workbook is not included in this repository. Download it separately from UCI.
@@ -96,7 +96,7 @@ Main steps:
 ```text
 online-retail-analysis/
 ├── README.md
-├── retail_analysis.ipynb
+├── retail_analysis_.ipynb
 ├── requirements.txt
 └── .gitignore
 ```
