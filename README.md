@@ -4,7 +4,7 @@
 
 An end-to-end exploratory analysis of **541,909 transaction-line records** from a UK-based online retailer, covering **1 December 2010 to 9 December 2011**. The project investigates sales trends, product performance, customer purchase behaviour, international markets, repeat purchasing and invoice timing.
 
-> **Project notebook:** [Open the complete analysis](retail_analysis.ipynb) — includes code, visualizations, data-quality investigations and a business recommendations section.
+> **Project notebook:** [Open the complete analysis](retail_analysis_.ipynb) — includes code, visualizations, data-quality investigations and a business recommendations section.
 
 ## Business questions
 
